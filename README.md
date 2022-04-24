@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyches
 - 👀 I’m interested in learning front-end web development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS -- I'm very new!
 - 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me:  heyches at gmail
 
